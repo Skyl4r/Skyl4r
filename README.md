@@ -1,4 +1,4 @@
-[discord]: BkJYdaJ9n7
+[discord]: https://discord.gg/BkJYdaJ9n7
 
 ![Picture](https://i.pinimg.com/originals/9f/5f/bf/9f5fbf9e4aa1232c88f2cc4c88a6937b.gif)
 
