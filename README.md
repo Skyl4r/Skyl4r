@@ -4,7 +4,7 @@
 
 # If they can do it, you could do it too.
 
-## &#x1f4c2; Skylar RP ( FiveM ) Community Discord
+## &#x1f4c2; City State RP ( FiveM ) Community Discord
 [![Discord](https://img.shields.io/discord/799230234628849674?label=Skylar%20RP&style=for-the-badge)][discord]
 
 ## &#x1f4c8; My GitHub Stats
